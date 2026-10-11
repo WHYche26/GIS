@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# 示例输出
+examples/output/
+
+# IDE
+.idea/
+.vscode/
