@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "示例研究区", "type": "行政区划" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [103.70, 36.02],
+            [103.90, 36.02],
+            [103.90, 36.10],
+            [103.70, 36.10],
+            [103.70, 36.02]
+          ]
+        ]
+      }
+    }
+  ]
+}

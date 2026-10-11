@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "G312 沪霍线（示例路段）", "type": "国道" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.783, 36.055],
+          [103.801, 36.058],
+          [103.819, 36.062],
+          [103.838, 36.066],
+          [103.856, 36.070]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "陇海铁路（示例路段）", "type": "铁路" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [103.790, 36.032],
+          [103.812, 36.036],
+          [103.834, 36.040],
+          [103.858, 36.044]
+        ]
+      }
+    }
+  ]
+}

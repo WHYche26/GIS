@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "北京天安门", "city": "北京", "type": "地标", "rank": 1 },
+      "geometry": { "type": "Point", "coordinates": [116.3912757, 39.9072175] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "上海外滩", "city": "上海", "type": "地标", "rank": 2 },
+      "geometry": { "type": "Point", "coordinates": [121.4908177, 31.2397015] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "广州塔", "city": "广州", "type": "地标", "rank": 3 },
+      "geometry": { "type": "Point", "coordinates": [113.3245209, 23.1064025] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "兰州中山桥", "city": "兰州", "type": "地标", "rank": 4 },
+      "geometry": { "type": "Point", "coordinates": [103.8162597, 36.0578946] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "成都天府广场", "city": "成都", "type": "地标", "rank": 5 },
+      "geometry": { "type": "Point", "coordinates": [104.0651437, 30.6570365] }
+    }
+  ]
+}
